@@ -1,12 +1,12 @@
 {
-	"member" 
+	"member" :
 	{
 		"name" : "Ahmed Mansour",
 		"labID" : "001",
 		"role" : "Ph.D Research Assistant",
 		"note" : "Thinks gelato is overrated"
 	},
-	"model"
+	"model" :
 	{
 		"scale" : "2 2 2"
 	}
