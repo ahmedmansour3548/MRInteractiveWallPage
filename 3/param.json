@@ -1,0 +1,15 @@
+{
+	"member" :
+	{
+		"name" : "Walter White",
+		"labID" : "003",
+		"role" : "Masters Student",
+		"note" : "Voted best cook"
+	},
+	"model" :
+	{
+		"scale" : "2 2 2"
+	}
+	
+	
+}

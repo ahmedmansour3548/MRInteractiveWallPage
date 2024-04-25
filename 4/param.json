@@ -1,0 +1,15 @@
+{
+	"member" :
+	{
+		"name" : "Some Dude",
+		"labID" : "004",
+		"role" : "Ph.D Research Assistant",
+		"note" : "Dude! - Some Dude"
+	},
+	"model" :
+	{
+		"scale" : "2 2 2"
+	}
+	
+	
+}

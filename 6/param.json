@@ -1,0 +1,15 @@
+{
+	"member" :
+	{
+		"name" : "Joe M",
+		"labID" : "006",
+		"role" : "Masters Student",
+		"note" : "VR is so cool!"
+	},
+	"model" :
+	{
+		"scale" : "2 2 2"
+	}
+	
+	
+}

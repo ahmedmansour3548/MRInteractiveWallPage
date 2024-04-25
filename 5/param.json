@@ -1,0 +1,15 @@
+{
+	"member" :
+	{
+		"name" : "Dexter",
+		"labID" : "006",
+		"role" : "Ph.D Student",
+		"note" : "Omelette Du Fromage"
+	},
+	"model" :
+	{
+		"scale" : "2 2 2"
+	}
+	
+	
+}
