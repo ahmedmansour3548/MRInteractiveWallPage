@@ -1,0 +1,15 @@
+{
+	"member" :
+	{
+		"name" : "Bob Bobby",
+		"labID" : "002",
+		"role" : "Intern",
+		"note" : "Probably getting coffee"
+	},
+	"model" :
+	{
+		"scale" : "2 2 2"
+	}
+	
+	
+}
