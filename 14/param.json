@@ -1,0 +1,15 @@
+{
+	"member" :
+	{
+		"name" : "Pam Beesly",
+		"labID" : "014",
+		"role" : "Receptionist",
+		"note" : "I feel God in this Chili's tonight."
+	},
+	"model" :
+	{
+		"scale" : "0.1 0.1 0.1"
+	}
+	
+	
+}
