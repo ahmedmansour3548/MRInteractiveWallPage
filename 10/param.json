@@ -1,0 +1,15 @@
+{
+	"member" :
+	{
+		"name" : "Squidward Tentacles",
+		"labID" : "010",
+		"role" : "Cashier",
+		"note" : "Leave me alone."
+	},
+	"model" :
+	{
+		"scale" : "0.1 0.1 0.1"
+	}
+	
+	
+}
