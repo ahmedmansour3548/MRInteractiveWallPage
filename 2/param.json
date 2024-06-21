@@ -4,7 +4,8 @@
 		"name" : "Bob Bobby",
 		"labID" : "002",
 		"role" : "Intern",
-		"note" : "Probably getting coffee"
+		"note" : "Probably getting coffee",
+		"link" : "https://www.ucf.edu/"
 	},
 	"model" :
 	{
