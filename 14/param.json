@@ -1,14 +1,14 @@
 {
 	"member" :
 	{
-		"name" : "Pam Beesly",
+		"name" : "Alexandre Vincent",
 		"labID" : "014",
-		"role" : "Receptionist",
-		"note" : "I feel God in this Chili's tonight."
+		"role" : "Intern",
+		"note" : "Amerique! Let's do a video!"
 	},
 	"model" :
 	{
-		"scale" : "0.1 0.1 0.1"
+		
 	}
 	
 	
