@@ -10,7 +10,8 @@
 	},
 	"model" :
 	{
-		"scale" : "0.15 0.15 0.15"
+		"scale" : "0.15 0.15 0.15",
+		"animationIndex" : "1"
 	}
 	
 	
