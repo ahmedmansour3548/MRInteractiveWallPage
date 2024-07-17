@@ -4,7 +4,8 @@
 		"name" : "Jason Ortiz",
 		"labID" : "003",
 		"role" : "Graduate Research Assistant",
-		"note" : "Can I bring my dog?"
+		"note" : "Can I bring my dog?",
+		"startYear" : "2022"
 	},
 	"model" :
 	{
