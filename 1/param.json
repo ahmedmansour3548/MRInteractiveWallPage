@@ -1,12 +1,12 @@
 {
 	"member" :
 	{
-		"name" : "Ahmed Mansour",
+		"name" : "Carsten Neumann",
 		"labID" : "001",
-		"role" : "Ph.D Research Assistant",
-		"note" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"role" : "Research Associate",
+		"note" : "QUOTE HERE",
 		"link" : "https://www.linkedin.com/in/ahmedmansour3548",
-		"startYear": "2023"
+		"startYear": "2020"
 	},
 	"model" :
 	{
